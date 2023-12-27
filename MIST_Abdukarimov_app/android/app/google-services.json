@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734001994683",
+    "project_id": "appabdukarimov",
+    "storage_bucket": "appabdukarimov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734001994683:android:559077923af65f43fdc29e",
+        "android_client_info": {
+          "package_name": "ua.nure.mist_abdukarimov_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAe5h6ic_D9cEQwaQbGWk3YNCt4sMuBSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
